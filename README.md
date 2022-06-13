@@ -17,8 +17,8 @@ By refactoring the code from doing the precipitation analysis, temperatures were
 
 Temperature statistics for June and December
 <p float="left">
-<img src="https://github.com/Bulzeye89/surfs_up/blob/main/Resources/June_temps.png" width=40% height=50%>
-<img src="https://github.com/Bulzeye89/surfs_up/blob/main/Resources/Dec_temps.png" width=40% height=50%>
+<img src="https://github.com/Bulzeye89/surfs_up/blob/main/Resources/June_temps.png">
+<img src="https://github.com/Bulzeye89/surfs_up/blob/main/Resources/Dec_temps.png">
 </p>
 
 ## Summary: 
