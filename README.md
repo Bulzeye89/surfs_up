@@ -21,21 +21,5 @@ Temperature statistics for June and December
 <img src="https://github.com/Bulzeye89/surfs_up/blob/main/Resources/Dec_temps.png" width=40% height=50%>
 </p>
 
-<br>
-<br>
-
-
-<br>
-
-if I want to copy and put in code
-    
-    '# Sort and show top five schools.
-        top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
-        top_schools.head()
-
-it can go above
-
-
-
 ## Summary: 
-
+Based on the temperature analysis to compare June and December, the ice cream and surf shop would be a sustainable business year round . The analysis shows that the weather in Oahu is fairly consistent throughout the year.  Some additional weather research that could be done to further help convincing W. Avy to invest would be wind analysis as well as any potential data regarding wave activity depending on the time of the year.  As the business plan progresses and locations are being scouted, individual stations weather data could be analyzed to determine the most ideal spot.  
