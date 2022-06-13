@@ -1,7 +1,11 @@
 # Surfs_Up
+
 ## Overview 
 
-## Resources
+### Background
+W. Avy is a potential investor for a surf and ice cream business in Oahu, Hawaii.  He has some concerns concerning the weather because of a past failed business venture.  Using weather data stored in a SQLite database, [hawaii.sqlite](https://github.com/Bulzeye89/surfs_up/blob/main/hawaii.sqlite), W. Avy had us perform some analysis on precipitation data over the last year that can be found in this [climate_analysis.ipynb](https://github.com/Bulzeye89/surfs_up/blob/main/climate_analysis.ipynb).  This analysis eased some of the concerns, but now W. Avy wants us to perform temperature analysis dating back to 2010 for the months of June and December to help determine if the ice cream surf shop would be sustainable year-round.
+
+### Resources
 [students_complete.csv](https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/students_complete.csv)
 
 ## Results
