@@ -9,7 +9,7 @@ W. Avy is a potential investor for a surf and ice cream business in Oahu, Hawaii
 -Data Source: [hawaii.sqlite](https://github.com/Bulzeye89/surfs_up/blob/main/hawaii.sqlite)<br>
 -Software: Python 3.7.11, Anaconda 4.12.0, JupyterLab 3.3.2
 
-##Results
+## Results
 By refactoring the code from doing the precipitation analysis, temperatures were able to be pulled from the data source for the months of June and December.  As seen in the screenshots below, three main observations are:
 - June's average temperature is 3.9 degrees higher than December's average temperature.
 - June's minimum temperature is 8 degrees higher than December's minimum temperature.  
