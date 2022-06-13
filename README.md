@@ -15,7 +15,6 @@ By refactoring the code from doing the precipitation analysis, temperatures were
 - June's minimum temperature is 8 degrees higher than December's minimum temperature.  
 - June's maximum temperature is 2 degrees higher than December's maximum temperature.  
 
-Temperature statistics for June and December
 <p float="left">
 <img src="https://github.com/Bulzeye89/surfs_up/blob/main/Resources/June_temps.png">
 <img src="https://github.com/Bulzeye89/surfs_up/blob/main/Resources/Dec_temps.png">
